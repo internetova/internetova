@@ -12,4 +12,4 @@
 ### Контакты
 
 [![Flutter](https://img.shields.io/badge/-ВКонтакте-lightblue?style=for-the-badge&logo=vk)](https://vk.com/internetova)
-[![Flutter](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=44D1FC)](https://https://t.me/internetova)
+[![Flutter](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=44D1FC)](https://t.me/internetova)
