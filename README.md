@@ -1,16 +1,15 @@
-### Hi there 👋
+## Привет! Я начинающий мобильный разработчик 👩🏼‍💻
+### Прохожу курс Surf: Flutter-разработчик
+[https://education.surf.ru](https://education.surf.ru)
 
-<!--
-**internetova/internetova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Старт курса 17 ноября 2020 г.
 
-Here are some ideas to get you started:
+### Языки и технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Flutter](https://img.shields.io/badge/-FLUTTER-1B2934?style=for-the-badge&logo=flutter&logoColor=44D1FC)
+![Flutter](https://img.shields.io/badge/-DART-1B2934?style=for-the-badge&logo=dart&logoColor=01579B)
+
+### Контакты
+
+[![Flutter](https://img.shields.io/badge/-ВКонтакте-lightblue?style=for-the-badge&logo=vk)](https://vk.com/internetova)
+[![Flutter](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=44D1FC)](https://https://t.me/internetova)
