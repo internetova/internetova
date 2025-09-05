@@ -1,14 +1,25 @@
-## Закончила курс Surf: Flutter-разработчик 👩🏼‍💻
-### [https://education.surf.ru](https://education.surf.ru) [старт курса 17 ноября 2020 г.]
-#### [https://disk.yandex.ru/i/cMWfy-PqmdRPrw](https://disk.yandex.ru/i/cMWfy-PqmdRPrw) [видео учебного проекта]
+# Flutter Developer
 
-### Языки и технологии
+> Контакты:
+>
+>Телеграм: https://t.me/internetova
 
-![Flutter](https://img.shields.io/badge/-FLUTTER-1B2934?style=for-the-badge&logo=flutter&logoColor=44D1FC)
-![Dart](https://img.shields.io/badge/-DART-1B2934?style=for-the-badge&logo=dart&logoColor=01579B)
-![github](https://img.shields.io/badge/-github-1B2934?style=for-the-badge&logo=github)
+## Опыт работы
+
+**02.08.2021 - NOW**  SURFSTUDIO LLC
+
+Разработка кроссплатформенных приложений
 
 
-[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-lightblue?style=for-the-badge&logo=vk)](https://vk.com/internetova)
-[![Telegram](https://img.shields.io/badge/-Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=44D1FC)](https://t.me/internetova)
-[![Веб-сайт](https://img.shields.io/badge/-Сайт-lightblue?style=for-the-badge&logo=safari&logoColor=054F8C)](http://internetova.ru)
+## Экспертиза
+
+- Разработка кроссплатформенных мобильных приложений для бизнеса
+- Интеграция с внешними API и сервисами
+- Публикация в официальные сторы App Store, Google Play, RuStore
+- Работа в команде и solo разработка
+- Коммуникация с клиентами
+
+## Технологии
+
+- Dart, Flutter, Clean Architecture, BloC, RxDart, Elementary, AutoRoute, Firebase, Dadata API
+- AI (Cursor, Claude Code)
