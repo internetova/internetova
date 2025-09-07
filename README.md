@@ -8,6 +8,8 @@
 
 **02.08.2021 - NOW**  SURFSTUDIO LLC
 
+https://surf.ru
+
 Разработка кроссплатформенных приложений
 
 
@@ -21,5 +23,5 @@
 
 ## Технологии
 
-- Dart, Flutter, Clean Architecture, BloC, RxDart, Elementary, AutoRoute, Firebase, Dadata API
+- Dart, Flutter, Clean Architecture, BloC, RxDart, Elementary, AutoRoute, Firebase
 - AI (Cursor, Claude Code)
